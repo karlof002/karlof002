@@ -2,7 +2,7 @@
 #### I am Exyno's Developer & Owner
 I am karlof, I'm 17 years old kid, i love developing Exyno, its my main bot, also a successful bot.
 
-Skills: C / C# / JS / HTML / CSS / EJS
+Skills: C / C# / JS / HTML / CSS / EJS / JAVA
 
 - 🔭 I’m currently working on @DevExyno 
 - 🌱 I’m currently learning C# & JS 
