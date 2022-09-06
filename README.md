@@ -1,7 +1,6 @@
-### Hi there 👋, my name is karlof002
+### Hi there, 👋
 
-Skills: C / C# / JS / HTML / CSS / EJS / JAVA
-
-- 🔭 I’m currently working on @DevExyno 
-- 🌱 I’m currently learning C# & JS 
-- 📫 How to reach me: karlof04gamer@gmail.com 
+- 🔭 I’m currently working on @DevExyno
+- 🌱 I’m currently learning C#, Java, JS, HTML, CSS
+- 🌱 I’m currently studying
+- 📫 mihodihasan@gmail.com
