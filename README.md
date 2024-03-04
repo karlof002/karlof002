@@ -33,5 +33,3 @@ Rent-A-Tool is a web application that enables users to rent specialized tools, e
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out if you have any questions, ideas, or just want to connect!
 
 Happy coding! 🚀
-
-[![karlof002's github stats](https://github-readme-stats.vercel.app/api?username=karlof002&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/karlof002)
