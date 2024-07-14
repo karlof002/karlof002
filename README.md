@@ -26,7 +26,7 @@ Rent-A-Tool is a web application that enables users to rent specialized tools, e
 
 - Instagram: [\_aboudy30.\_](https://www.instagram.com/_aboudy30._/)
 - Discord: karlof002
-- Portfolio: [karlof002](https://karlof002.github.io/)
+- Portfolio: [karlof002](https://karlof002-portfolio.vercel.app/)
 
 ## 💬 Get in Touch
 
