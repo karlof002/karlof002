@@ -15,7 +15,7 @@ Currently diving deeper into Java to enhance my capabilities.
 
 ## 🚀 Projects
 ### Rent-A-Tool
-Rent-A-Tool is a web application that enables users to rent specialized tools, equipment, or devices. [Link to Rent-A-Tool](https://student.cloud.htl-leonding.ac.at/f.satybaldy-ulu/rat/#/)
+Rent-A-Tool is a web application that enables users to rent specialized tools, equipment, or devices. [Rent-A-Tool](https://www.abd-dev.at/blog/rat)
 
 ## 📫 Let's Connect
 - [Instagram](https://www.instagram.com/_aboudy30._)
