@@ -19,4 +19,3 @@ Hi there! 👋 I'm Abd Alrahman El-Hamaoui, a software engineer with a deep love
 
 [![Top Langs](https://readme-stats-git-master-karlof002s-projects.vercel.app/api/top-langs/?username=karlof002&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://readme-stats-git-master-karlof002s-projects.vercel.app/api/wakatime?username=karlof002)](https://github.com/anuraghazra/github-readme-stats)
