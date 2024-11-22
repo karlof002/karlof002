@@ -24,7 +24,7 @@ Hi there! 👋 I'm Abd Alrahman El-Hamaoui, a software engineer with a deep love
 - 🐍 Python
 
 **Frontend**  
-- 🚀 Angular  
+- 🚀 Angular / React / Next.js
 - 🎨 HTML, CSS, TypeScript  
 
 **Backend**  
