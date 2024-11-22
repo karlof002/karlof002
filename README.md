@@ -9,5 +9,5 @@ Hi there! 👋 I'm Abd Alrahman El-Hamaoui, a software engineer with a deep love
 
 ![Anurag's GitHub stats](https://readme-stats-pied-ten.vercel.app/api?username=karlof002&show_icons=true&theme=dark)
 
-[![Top Langs](https://readme-stats-pied-ten.vercel.app/api/top-langs/?username=karlof002&theme=dark&langs_count=19)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-pied-ten.vercel.app/api/top-langs/?username=karlof002&theme=dark&langs_count=19&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
