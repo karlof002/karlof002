@@ -7,5 +7,5 @@ Hi there! 👋 I'm Abd Alrahman El-Hamaoui, a software engineer with a deep love
 
 ---
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <img src="https://readme-stats-pied-ten.vercel.app/api/top-langs/?username=karlof002&theme=dark&langs_count=19&layout=compact&card_width=1000" />
+  <img src="https://readme-stats-pied-ten.vercel.app/api/top-langs/?username=karlof002&theme=dark&langs_count=19&layout=compact&card_width=350" />
 </div>
