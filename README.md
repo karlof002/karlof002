@@ -3,7 +3,7 @@
 
 **Passionate Full-Stack Developer | C# Enthusiast | Angular Advocate**
 
-Hi there! 👋 I'm Abd Alrahman El-Hamaoui, a software engineer with a deep love for building dynamic, scalable web applications. My journey in programming revolves around crafting user-centric solutions using modern frameworks and technologies. I strive to bridge the gap between innovative ideas and impactful software.
+Hi there! 👋 I'm Abd Alrahman El-Hamaoui, a software engineer who loves creating web apps that are fast and easy to use. I enjoy building solutions that focus on users' needs using the latest tools and technologies. My goal is to turn creative ideas into software that makes a difference.
 
 ---
 <div style="display:flex;flex-direction:row;justify-content:center;">
