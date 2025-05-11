@@ -19,7 +19,8 @@ I specialize in developing **web and mobile applications** using modern technolo
 I believe in building software that **delivers value**. Whether it's making a business process more efficient or creating an app that users love to use, my goal is to contribute to projects that have a real-world impact. I'm always eager to learn and experiment with new tools, approaches, and technologies to stay on the cutting edge of development.
 
 ### 💬 Let's Connect!
-Feel free to reach out if you'd like to collaborate on a project or just have a chat about tech. You can find me on [GitHub](https://github.com/karlof002)
+Feel free to reach out if you'd like to collaborate on a project or just have a chat about tech. You can contact me via my personal website: [abd-dev.at](https://abd-dev.at).
+
 
 ---
 *“Turning creative ideas into solutions through code.”*
