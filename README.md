@@ -25,5 +25,3 @@ const abdDev = {
 - 🌐 Exploring modern web technologies
 - 💡 Always learning something new
 
----
-⭐️ From [Abd Alrahman El-Hamaoui](https://github.com/karlof002)
