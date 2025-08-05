@@ -1,22 +1,38 @@
-# 🌟 Abd Alrahman El-Hamaoui  
+# Hey there! 👋 I'm Abd Alrahman El-Hamaoui
 
-**Passionate Full-Stack Developer**
+### 🚀 Full-Stack Developer | Problem Solver | Code Enthusiast
 
-Hi there! 👋 I'm **Abd Alrahman El-Hamaoui**, a software engineer with a passion for creating intuitive and scalable web and mobile applications. With a strong background in both front-end and back-end development, I enjoy building solutions that focus on improving user experience and performance.
-
-### 💻 What I Do
-I specialize in developing **web and mobile applications** using modern technologies like **React**, **React Native**, **Angular**, **ASP.NET Core**, **Entity Framework Core**, and **MySQL**. My approach is centered around clean, maintainable code and efficient workflows that allow for quick iterations and high-quality products.  
-
-### 🔧 Technologies & Tools
-- **Frontend:** React, React Native, Angular, Bootstrap, CSS
-- **Backend:** ASP.NET Core, Node.js
-- **Database:** MySQL, SQL Server, PostgreSQL
-- **Mobile:** React Native, Expo, Android Development (Kotlin)
-- **Version Control:** Git, GitHub
-- **Other:** Docker, Firebase, TypeScript
-
-### 🚀 My Mission
-I believe in building software that **delivers value**. Whether it's making a business process more efficient or creating an app that users love to use, my goal is to contribute to projects that have a real-world impact. I'm always eager to learn and experiment with new tools, approaches, and technologies to stay on the cutting edge of development.
+I'm passionate about crafting clean, efficient solutions and turning ideas into reality through code. Currently studying Computer Science at Johannes Kepler University Linz.
 
 ---
-*“Turning creative ideas into solutions through code.”*
+
+### 🛠️ Tech Arsenal
+
+```javascript
+const abdAlrahman = {
+    code: ["JavaScript", "TypeScript", "C#", "Kotlin"],
+    frontend: ["React", "React Native", "Angular", "Next.js"],
+    backend: ["Node.js", "ASP.NET Core", "Express"],
+    database: ["MySQL", "PostgreSQL", "SQL Server"],
+    mobile: ["React Native", "Expo", "Android"],
+    tools: ["Git", "Docker", "Firebase"]
+};
+```
+
+### 📊 GitHub Stats
+
+![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlof002&show_icons=true&theme=dark&hide_border=true)
+
+### 🔥 Current Focus
+- 🎓 Studying Computer Science at JKU Linz
+- 📱 Building mobile apps with React Native
+- 🌐 Exploring modern web technologies
+- 💡 Always learning something new
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abddev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://abbd-dev.at)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdalrahman.el-hamaoui@outlook.com)
+
+---
+⭐️ From [Abd Alrahman El-Hamaoui](https://github.com/karlof002)
