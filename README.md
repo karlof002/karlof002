@@ -4,24 +4,9 @@
 
 I'm passionate about crafting clean, efficient solutions and turning ideas into reality through code. Currently studying Computer Science at Johannes Kepler University Linz.
 
----
 
-### 🛠️ Tech Arsenal
-
-```javascript
-const abdDev = {
-    code: ["JavaScript", "TypeScript", "C#", "Kotlin"],
-    frontend: ["React", "React Native", "Angular", "Next.js"],
-    backend: ["Node.js", "ASP.NET Core", "Express"],
-    database: ["MySQL", "PostgreSQL", "SQL Server"],
-    mobile: ["React Native", "Expo", "Android"],
-    tools: ["Git", "Docker", "Firebase"]
-};
-```
-
-### 🔥 Current Focus
-- 🎓 Studying Computer Science at JKU Linz
-- 📱 Building mobile apps with React Native
-- 🌐 Exploring modern web technologies
-- 💡 Always learning something new
-
+<h3 align="center">Languages and Tools:</h3>
+<div align="center"> 
+<a href="https://github.com/karlof002/karlof002"><img src="https://skillicons.dev/icons?i=androidstudio,angular,azure,babel,bootstrap,cs,css,dotnet,git,html,idea,java,js,kotlin,mysql,nextjs,nodejs,npm,react,rider,tailwind,ts,visualstudio,vscode"/>
+</a>
+</div>
