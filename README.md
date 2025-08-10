@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey there! 👋
-
-### 🚀 Full-Stack Developer | Problem Solver 
+# 🚀 Full-Stack Developer
 
 I'm passionate about crafting clean, efficient solutions and turning ideas into reality through code. Currently studying Computer Science at Johannes Kepler University Linz.
 
