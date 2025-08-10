@@ -4,7 +4,7 @@
 
 I'm passionate about crafting clean, efficient solutions and turning ideas into reality through code. Currently studying Computer Science at Johannes Kepler University Linz.
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="margin-top: 40px;">Languages and Tools:</h3>
 
 <div align="center" style="max-width: 600px; margin: auto;">
 
@@ -42,7 +42,4 @@ I'm passionate about crafting clean, efficient solutions and turning ideas into 
   </div>
 
 </div>
-
-
-
 </div>
