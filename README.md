@@ -4,15 +4,6 @@
 
 I'm passionate about crafting clean, efficient solutions and turning ideas into reality through code. Currently studying Computer Science at Johannes Kepler University Linz.
 
-<div align="center" style="margin-bottom: 20px;">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/code.svg" 
-    alt="Code Icon" 
-    width="80" 
-    height="80" 
-    style="fill:#61dafb; filter: invert(29%) sepia(96%) saturate(2075%) hue-rotate(174deg) brightness(99%) contrast(98%);"
-  />
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
