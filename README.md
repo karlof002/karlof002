@@ -6,10 +6,11 @@ I'm passionate about crafting clean, efficient solutions and turning ideas into 
 
 <div align="center" style="margin-bottom: 20px;">
   <img 
-    src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=600&q=80" 
-    alt="Coding illustration" 
-    width="300"
-    style="border-radius: 12px;"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/code.svg" 
+    alt="Code Icon" 
+    width="80" 
+    height="80" 
+    style="fill:#61dafb; filter: invert(29%) sepia(96%) saturate(2075%) hue-rotate(174deg) brightness(99%) contrast(98%);"
   />
 </div>
 
