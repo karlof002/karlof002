@@ -4,15 +4,9 @@
 **Full-Stack Developer**
 
 <p align="center">
-  <a href="mailto:hello@abd-dev.at">
-    <img src="https://img.shields.io/badge/Email-D1E2FF?style=for-the-badge&logo=gmail&logoColor=001E3C" alt="Email" height="36">
-  </a>
-  <a href="https://www.abd-dev.at">
-    <img src="https://img.shields.io/badge/Portfolio-C2E8FF?style=for-the-badge&logo=website&logoColor=001E3C" alt="Portfolio" height="36">
-  </a>
-  <a href="https://www.instagram.com/_aboudy30._/">
-    <img src="https://img.shields.io/badge/Instagram-FFD8E4?style=for-the-badge&logo=instagram&logoColor=311119" alt="Instagram" height="36">
-  </a>
+  <a href="mailto:hello@abd-dev.at"><img src="https://img.shields.io/badge/Email-D1E2FF?style=for-the-badge&logo=gmail&logoColor=001E3C" alt="Email" height="36"></a>
+  <a href="https://www.abd-dev.at"><img src="https://img.shields.io/badge/Portfolio-C2E8FF?style=for-the-badge&logo=website&logoColor=001E3C" alt="Portfolio" height="36"></a>
+  <a href="https://www.instagram.com/_aboudy30._/"><img src="https://img.shields.io/badge/Instagram-FFD8E4?style=for-the-badge&logo=instagram&logoColor=311119" alt="Instagram" height="36"></a>
 </p>
 
 ---
@@ -63,7 +57,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio-DBE1FF?style=for-the-badge&logoColor=0E1E4E" alt="Visual Studio" height="36">
   <img src="https://img.shields.io/badge/Rider-DBE1FF?style=for-the-badge&logoColor=0E1E4E" alt="Rider" height="36">
   <img src="https://img.shields.io/badge/npm-DBE1FF?style=for-the-badge&logoColor=0E1E4E" alt="npm" height="36">
-  <img src="https://img.shields.io/badge/Babel-DBE1FF?style=for-the-badge&logoColor=0E1E4E" alt="Babel" height="36">
 </p>
 
 ---
