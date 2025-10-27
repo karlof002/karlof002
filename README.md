@@ -1,45 +1,30 @@
-<div align="center">
+# Abd Alrahman El-Hamaoui
+**Full-Stack Developer**
 
-# 🚀 Full-Stack Developer
+[hello@abd-dev.at](mailto:hello@abd-dev.at) | [Portfolio: abd-dev.at](https://www.abd-dev.at) | [Instagram](https://www.instagram.com/_aboudy30._/)
 
-I'm passionate about crafting clean, efficient solutions and turning ideas into reality through code. Currently studying Computer Science at Johannes Kepler University Linz.
+---
 
-<h3 align="center" style="margin-top: 40px;">Languages and Tools:</h3>
+### About Me
 
-<div align="center" style="max-width: 600px; margin: auto;">
+I'm a full-stack developer with a passion for building robust backend systems and clean, functional web applications. I focus on creating efficient solutions that solve real-world problems.
 
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 16px;">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=babel" alt="Babel" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60" height="60" />
-  </div>
+My expertise spans across modern web technologies, with particular strength in backend development, API design, and system architecture. I believe in writing maintainable code and following best practices.
 
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 16px;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
-  </div>
+---
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=rider" alt="Rider" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" />
-  </div>
+### 💻 Languages and Tools
 
-</div>
-</div>
+* **Languages:** C#, Java, Kotlin, JavaScript, TypeScript, HTML, CSS, MySQL
+* **Frameworks & Libraries:** .NET, Angular, React, Next.js, Node.js, Bootstrap, Tailwind
+* **Tools & Platforms:** Git, Azure, Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Rider, npm, Babel
+
+---
+
+### 🎓 Education
+
+**Johannes Kepler University Linz**
+* Bachelor of Science in Computer Science (2025 - Present)
+
+**HTL-Leonding**
+* Information Technology (2019 - 2024)
