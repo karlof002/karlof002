@@ -11,11 +11,18 @@
 
 ---
 
-### About Me
-
-> I'm a full-stack developer with a passion for building robust backend systems and clean, functional web applications. I focus on creating efficient solutions that solve real-world problems.
->
-> My expertise spans across modern web technologies, with particular strength in backend development, API design, and system architecture. I believe in writing maintainable code and following best practices.
+<details align="center">
+  <summary>
+    <strong>👋 About Me</strong> (Click to expand)
+  </summary>
+  <br>
+  <p align="left">
+    I'm a full-stack developer with a passion for building robust backend systems and clean, functional web applications. I focus on creating efficient solutions that solve real-world problems.
+  </p>
+  <p align="left">
+    My expertise spans across modern web technologies, with particular strength in backend development, API design, and system architecture. I believe in writing maintainable code and following best practices.
+  </p>
+</details>
 
 ---
 
