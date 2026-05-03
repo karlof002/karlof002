@@ -2,24 +2,34 @@
 
 <br>
 
+<table align="center">
+  <tr>
+    <td align="center" width="820">
+
 <p align="center">
-  <strong>
-    I build fast, clean, and practical digital products with a strong focus on backend systems, APIs, web applications, and Android development.
-  </strong>
+  <sub>ABOUT</sub>
+</p>
+
+<h3 align="center">
+  Building fast, clean, and practical digital products
+</h3>
+
+<p align="center">
+  Focused on backend systems, APIs, web applications, and Android development.
 </p>
 
 <p align="center">
   <a href="https://www.abd-dev.at">
-    <img src="https://img.shields.io/badge/Portfolio-abd--dev.at-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F6FEB" />
   </a>
   <a href="mailto:hello@abd-dev.at">
-    <img src="https://img.shields.io/badge/Email-hello%40abd--dev.at-30363D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=30363D" />
   </a>
   <a href="https://www.instagram.com/_aboudy30._/">
-    <img src="https://img.shields.io/badge/Instagram-aboudy30._-30363D?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=30363D" />
   </a>
 </p>
-
+</table>
 <br>
 
 <p align="center">
