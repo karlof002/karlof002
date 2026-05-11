@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FDF3D0,100:FDF3D0&text=Abd%20Alrahman%20El-Hamaoui&fontColor=0D1117&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer&descColor=333333&descSize=18&descAlign=50&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:C8DCFF,50:F5A7E6,100:FF8A5C&text=Abd%20Alrahman%20El-Hamaoui&fontColor=0D1117&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer&descColor=333333&descSize=18&descAlign=50&descAlignY=58" />
 
 
 <p align="center">
