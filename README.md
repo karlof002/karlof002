@@ -1,9 +1,1 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:C8DCFF,35:F5A7E6,70:FF9A7A,100:FFD36B&text=Abd%20Alrahman%20El-Hamaoui&fontColor=0D1117&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer&descColor=333333&descSize=18&descAlign=50&descAlignY=58" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Johannes%20Kepler%20University%20Linz-BSc%20Computer%20Science%20%7C%202025%E2%80%93Present-7B7AE0?style=for-the-badge&labelColor=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTL%20Leonding-Information%20Technology%20%7C%202019%E2%80%932024-FF8A6B?style=for-the-badge&labelColor=0D1117" />
-</p>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/412d66e3-cfa1-460c-a3d3-1ef5173a6c0d" />
